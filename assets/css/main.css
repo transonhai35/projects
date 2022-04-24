@@ -94,6 +94,7 @@ body {
     min-width: 200px;
     flex-direction: column;
     display: none;
+    animation: appear 0.3s ease-in-out;
 }
 
 @keyframes appear {
